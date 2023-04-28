@@ -7,7 +7,7 @@ static volatile int LS,RS,i,n,Lefty,Righty,y,an,bn,m,m_start,k,p,pick,obs_flag,i
 void Check_obs();                                   // Forward Declaring functions
 void package();
 void led_obs();
-serial *bm;
+serial *bm;                                         // Declaring bluetooth as bm.
 unsigned int stack[40+25];                          // Defining Stacks 
 unsigned int stack1[40+25];
 unsigned int stack2[40+25];
