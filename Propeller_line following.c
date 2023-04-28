@@ -1,10 +1,3 @@
-//Wednesday
-
-//Monday update
-
-//Sunday Work_update
-
-
 #include "simpletools.h"                            // Include simple tools
 #include "servo.h"                                  // Include Servo library
 #include "ping.h"                                   // Include Ultrasonic library
