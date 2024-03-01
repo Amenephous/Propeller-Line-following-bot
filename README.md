@@ -23,5 +23,9 @@ The AGV operates within a factory environment represented by a grid-like structu
 - **tests**: Contains test scripts and datasets for testing the system.
 - **README.md**: Provides an overview of the project, setup instructions, and usage guidelines.
 
+## Circuit Diagram
+![Circuit Diagram](https://github.com/Amenephous/Propeller-Line-following-bot/raw/main/Circuit%20Diagram.jpg)
+
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
