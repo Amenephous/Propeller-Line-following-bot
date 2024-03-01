@@ -28,7 +28,9 @@ The AGV operates within a factory environment represented by a grid-like structu
 
 
 ## Video Demonstration
-[Click here to watch the video demonstration](https://photos.app.goo.gl/9NtMvUAPNtjcXSNr8)
+
+![prop_linefollower_gif](https://github.com/Amenephous/Propeller-Line-following-bot/assets/48127920/597dd0a0-949e-49b2-b262-5ab51efc0c27)
+[Click here to watch the video demonstration.](https://photos.app.goo.gl/9NtMvUAPNtjcXSNr8)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
