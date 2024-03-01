@@ -30,10 +30,5 @@ The AGV operates within a factory environment represented by a grid-like structu
 ## Video Demonstration
 [Click here to watch the video demonstration](https://photos.app.goo.gl/9NtMvUAPNtjcXSNr8)
 
-[Include any additional information or descriptions related to the video demonstration here.]
-
-
-
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
