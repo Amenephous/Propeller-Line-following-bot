@@ -18,13 +18,21 @@ The AGV operates within a factory environment represented by a grid-like structu
 - The system should continuously check for dynamic obstacles in pickup and drop-off lanes and stop if any are present until the obstacle is cleared.
 
 ## Repository Contents
-- **src**: Contains the source code for the AGV system.
-- **docs**: Includes project documentation, diagrams, and additional resources.
-- **tests**: Contains test scripts and datasets for testing the system.
-- **README.md**: Provides an overview of the project, setup instructions, and usage guidelines.
+
+- **Problem statement & Task Description**: Contains the Challenge presented which repo solves.
+- **Propeller_line following.c**: Contains source code.
+- **Circuit Diagram.jpg**: Contains the circuit diagram of the setup used.
 
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/Amenephous/Propeller-Line-following-bot/raw/main/Circuit%20Diagram.jpg)
+
+
+## Video Demonstration
+[Click here to watch the video demonstration](https://photos.app.goo.gl/9NtMvUAPNtjcXSNr8)
+
+[Include any additional information or descriptions related to the video demonstration here.]
+
+
 
 
 ## License
